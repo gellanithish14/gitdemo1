@@ -1,0 +1,7 @@
+Amazon Web Services
+Key components are :
+EC2
+EBS
+S3
+VPC
+EFS

@@ -1,0 +1,3 @@
+Introduction to devops
+Devops uses Agile model
+Key principles are collaboration, automation, CI/CD, monitoring

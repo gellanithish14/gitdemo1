@@ -1,0 +1,4 @@
+Introduction to GIT
+Global Information tracker
+GIT is a distributed version control system
+Key principles are collaboration, version control
